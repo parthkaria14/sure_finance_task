@@ -1,0 +1,32 @@
+[
+  {
+    "issuer": "UNKNOWN",
+    "used_ocr": false,
+    "source_file": "citi_statement.pdf"
+  },
+  {
+    "issuer": "HDFC",
+    "used_ocr": false,
+    "source_file": "hdfc_statement.pdf"
+  },
+  {
+    "issuer": "ICICI",
+    "cardholder_name": "Ashok\nYour Total Amount Due",
+    "last_4_digits": "2004",
+    "billing_period": "15/02/2019 to 14/03/2019",
+    "payment_due_date": "N/A",
+    "total_amount_due": "4375",
+    "used_ocr": false,
+    "source_file": "icici_statement.pdf"
+  },
+  {
+    "issuer": "IDFC",
+    "cardholder_name": "Other Debits",
+    "last_4_digits": "4401",
+    "billing_period": "18/01/2024 to 17/02/2024",
+    "payment_due_date": "N/A",
+    "total_amount_due": "N/A",
+    "used_ocr": false,
+    "source_file": "idfc_statement.pdf"
+  }
+]

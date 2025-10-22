@@ -1,0 +1,42 @@
+[
+  {
+    "cardholder_name": "N/A",
+    "last_4_digits": "N/A",
+    "billing_period": "N/A",
+    "payment_due_date": "N/A",
+    "total_amount_due": "N/A",
+    "issuer": "CITI",
+    "used_ocr": true,
+    "source_file": "citi_statement.pdf"
+  },
+  {
+    "cardholder_name": "N/A",
+    "last_4_digits": "N/A",
+    "billing_period": "N/A",
+    "payment_due_date": "N/A",
+    "total_amount_due": "N/A",
+    "issuer": "HDFC",
+    "used_ocr": true,
+    "source_file": "hdfc_statement.pdf"
+  },
+  {
+    "cardholder_name": "Ashok",
+    "last_4_digits": "2004",
+    "billing_period": "N/A",
+    "payment_due_date": "N/A",
+    "total_amount_due": "N/A",
+    "issuer": "ICICI",
+    "used_ocr": true,
+    "source_file": "icici_statement.pdf"
+  },
+  {
+    "cardholder_name": "Total Amount Due",
+    "last_4_digits": "N/A",
+    "billing_period": "N/A",
+    "payment_due_date": "06/03/2024",
+    "total_amount_due": "70330.68",
+    "issuer": "IDFC",
+    "used_ocr": true,
+    "source_file": "idfc_statement.pdf"
+  }
+]
